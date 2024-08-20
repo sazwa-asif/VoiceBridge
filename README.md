@@ -4,17 +4,11 @@
 
 <h3>FEATURES: </h3>
 <ul style="list-style-type:circle;">
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-
-
-<h3>KEY COMPONENT: </h3>
-<ul style="list-style-type:circle;">
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Authentication System: Handles user login and signup processes to manage user account</li>
+  <li>Score Monitoring: Tracks and displays user scores or progress within the application.</li>
+  <li>Audio Feedback: Provides feedback through audio cues based on user interactions or answers.</li>
+  <li>Animal Sounds Module: Manages and plays different animal sounds as part of the application’s functionality.</li>
+  <li>Cursor Navigation: Allows users to navigate and interact with sounds based on cursor placement.</li>
 </ul>
 
 
@@ -35,7 +29,7 @@
 
 
 <h3>GAME SNAPSHOT </h3>
-<img width="541" alt="Untitled2" src="https://github.com/user-attachments/assets/e5b4da3e-dae3-495e-a2ae-f8de1180fd82">
+<img width="541" alt="Untitled2" src="https://github.com/user-attachments/assets/e5b4da3e-dae3-495e-a2ae-f8de1180fd82"><br><br>
 <img width="541" alt="Untitled4" src="https://github.com/user-attachments/assets/a42d14c2-f2a8-432c-af6b-7a0ab01f7c65">
 
 
