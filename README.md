@@ -28,6 +28,19 @@
   </ul>
 
 <h3>LOGIN SNAPSHOT </h3>
-!
+<img width="951" alt="Untitled" src="https://github.com/user-attachments/assets/be6c0f2c-38c2-4c34-ac9b-08fda66dd9b6">
+
+<h3>SIGNUP SNAPSHOT </h3>
+<img width="343" alt="Untitled7" src="https://github.com/user-attachments/assets/b7e3483c-c542-4ace-bd9d-6ff20cb35e0a">
+
+
+<h3>GAME SNAPSHOT </h3>
+<img width="541" alt="Untitled2" src="https://github.com/user-attachments/assets/e5b4da3e-dae3-495e-a2ae-f8de1180fd82">
+<img width="541" alt="Untitled4" src="https://github.com/user-attachments/assets/a42d14c2-f2a8-432c-af6b-7a0ab01f7c65">
+
+
+
+
+
 
 
