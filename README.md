@@ -15,10 +15,12 @@
 <h3>USAGE: </h3>
   <ul style="list-style-type:circle;">
   <li> Clone the repository to your local machine. </li>
-  <li>Ensure you have Python installed, along with the Tkinter, pillow and matplotlib module .</li>
   <li> Run the script to launch the application.</li>
-  <li>Interact with the GUI entering personal details.</li>
-  <li>Corresponding prediction and its graph will be displayed</li>
+  <li>Interact with the GUI entering login details.</li>
+  <li>If having no account, then signup. </li>
+  <li>You will be prompted to Game Screen. </li>
+  <li>Audios of animal sound will be played, enter the animal name. </li>
+  <li>Audio feedback will be provided and the score will be monitored. </li>
   </ul>
 
 <h3>LOGIN SNAPSHOT </h3>
